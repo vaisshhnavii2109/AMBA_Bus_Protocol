@@ -31,3 +31,11 @@ It ensures seamless data transfer between processors, memory, and peripherals.
 - **AXI (Advanced eXtensible Interface)**: High-speed, multi-channel interconnects.
 - **AHB to APB Bridge**: Verification of low-power and high-speed interfacing.
 - **AXI to APB Bridge**: Ensuring seamless protocol translation.
+
+
+### **References**
+- [ARM AMBA Specification](https://developer.arm.com/architectures/system-architectures/amba)
+- [Cadence Verification Guide](https://community.cadence.com) 
+- https://www.allaboutcircuits.com/technical-articles/introduction-to-the-advanced-microcontroller-bus-architecture/ 
+- L. Deeksha and B. R. Shivakumar, "Effective Design and Implementation of AMBA AHB Bus Protocol using Verilog," 2019 International Conference on Intelligent Sustainable Systems (ICISS), Palladam, India, 2019, pp. 1-5, doi: 10.1109/ISS1.2019.8907975.
+- E. Ravikumar, K. B. Ganesha, C. Y. Chethana and T. M. Parikshith Roy, "Design and Verification of Advanced Microcontroller Bus Architecture (AMBA) Advanced Peripheral Bus (APB) Protocol," 2024 International Conference on Smart Systems for applications in Electrical Sciences (ICSSES), Tumakuru, India, 2024, pp. 1-5, doi: 10.1109/ICSSES62373.2024.10561369.
