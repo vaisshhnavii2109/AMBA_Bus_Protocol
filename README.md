@@ -1,8 +1,8 @@
-# AMBA Bus Protocol Verification (APB & AHB)
+# AMBA Bus Protocol Verification
 
 This repository contains the **design and verification of AMBA Bus Protocols** 
 – **APB (Advanced Peripheral Bus)** 
-**AHB (Advanced High-performance Bus)**. 
+- **AHB (Advanced High-performance Bus)**. 
 
 The implementation includes **Verilog, SystemVerilog (SV), and UVM testbenches**, along with simulation waveforms.
 
